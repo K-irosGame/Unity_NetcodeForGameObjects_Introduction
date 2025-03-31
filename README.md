@@ -102,6 +102,6 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier
 ---
 
 ### 📩 Contact
-N'hésitez pas à me contacter via **[LinkedIn](https://linkedin.com/in/ton-nom)** ou **[Twitter](https://twitter.com/ton-nom)** pour échanger sur le sujet !
+N'hésitez pas à me contacter via **[LinkedIn](https://www.linkedin.com/in/patrice-de-souza-6b5534114/)** ou **[email](kairos.game.journey)** pour échanger sur le sujet !
 
 ---
