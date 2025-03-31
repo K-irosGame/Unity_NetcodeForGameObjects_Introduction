@@ -6,7 +6,7 @@
 Ce projet est le fruit de mes recherches sur les jeux multijoueurs et leur architecture réseau. Selon les statistiques de l'industrie du jeu vidéo, le futur est résolument tourné vers le multijoueur (Cf [Unity Report 2025](https://unity.com/fr/resources/gaming-report)). Ce dépôt propose un guide pratique sur **Unity Netcode for GameObjects (NGO)**, une solution réseau puissante pour développer des expériences multijoueurs fluides et performantes.
 
   
-[![Youtube Tutorial](./Intro.png)](https://youtu.be/GBtkBY6gko0)  
+[![Youtube Tutorial](./Intro.jpg)](https://youtu.be/GBtkBY6gko0)  
 
 Happy Coding ! <br>
 ---
